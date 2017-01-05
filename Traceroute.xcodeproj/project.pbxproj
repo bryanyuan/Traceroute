@@ -16,6 +16,7 @@
 		E78015B51E1E4B6F000AAD38 /* NetworkTagsCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = E78015B31E1E4B6F000AAD38 /* NetworkTagsCollectionViewCell.m */; };
 		E78015B91E1E4B99000AAD38 /* TracerouteTagsDataSources.m in Sources */ = {isa = PBXBuildFile; fileRef = E78015B71E1E4B99000AAD38 /* TracerouteTagsDataSources.m */; };
 		E78015BD1E1E4BC7000AAD38 /* SimplePing.m in Sources */ = {isa = PBXBuildFile; fileRef = E78015BB1E1E4BC7000AAD38 /* SimplePing.m */; };
+		E78015C11E1E67FB000AAD38 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = E78015C01E1E67FA000AAD38 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		E78015BC1E1E4BC7000AAD38 /* SimplePing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimplePing.h; sourceTree = "<group>"; };
 		E78015BE1E1E4D43000AAD38 /* Consts.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Consts.h; sourceTree = "<group>"; };
 		E78015BF1E1E4D8E000AAD38 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		E78015C01E1E67FA000AAD38 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				E780159A1E1E4A4D000AAD38 /* Traceroute */,
 				E78015991E1E4A4D000AAD38 /* Products */,
+				E78015C01E1E67FA000AAD38 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -196,6 +199,7 @@
 				E78015A31E1E4A4D000AAD38 /* ViewController.m in Sources */,
 				E78015B51E1E4B6F000AAD38 /* NetworkTagsCollectionViewCell.m in Sources */,
 				E78015BD1E1E4BC7000AAD38 /* SimplePing.m in Sources */,
+				E78015C11E1E67FB000AAD38 /* README.md in Sources */,
 				E78015A01E1E4A4D000AAD38 /* AppDelegate.m in Sources */,
 				E780159D1E1E4A4D000AAD38 /* main.m in Sources */,
 				E78015B91E1E4B99000AAD38 /* TracerouteTagsDataSources.m in Sources */,
@@ -357,6 +361,7 @@
 				E78015B11E1E4A4D000AAD38 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
