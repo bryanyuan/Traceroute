@@ -11,8 +11,8 @@
 
 @interface TracerouteTagsEntry : NSObject
 
-@property (nonatomic) NSString *title;
-@property (nonatomic) NSString *host;
+@property (nonatomic, copy) NSString *title;
+@property (nonatomic, copy) NSString *host;
 
 @end
 
